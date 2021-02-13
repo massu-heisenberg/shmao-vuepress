@@ -12,7 +12,13 @@
   "author": "shmao",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.5.7",
+    "@vuepress/plugin-active-header-links": "^1.8.1",
+    "@vuepress/plugin-back-to-top": "^1.8.1",
+    "vuepress": "^1.8.1",
+    "vuepress-plugin-cat": "^1.0.3"
+  },
+  "dependencies": {
+    "vuepress-plugin-helper-live2d": "^1.0.2"
   }
 }
