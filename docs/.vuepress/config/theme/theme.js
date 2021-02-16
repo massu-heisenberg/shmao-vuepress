@@ -14,9 +14,9 @@ module.exports = {
             items: [
                 {
                     text: "Javascript", items: [
-                        { text: '什么是面向对象', link: "/docs/javascript/oop/" },
-                        { text: "三大特性", link: "/docs/javascript/oop/feature/" },
-                        { text: "面向切面", link: "/docs/javascript/oop/aop/" },
+                        { text: '面向对象', link: "/docs/javascript/oop/" },
+                        // { text: "三大特性", link: "/docs/javascript/oop/feature/" },
+                        // { text: "面向切面", link: "/docs/javascript/oop/aop/" },
                     ]
                 },
                 { text: "Vue", link: "/docs/vue/" },
